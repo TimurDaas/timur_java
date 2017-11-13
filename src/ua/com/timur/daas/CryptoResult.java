@@ -6,7 +6,7 @@ package ua.com.timur.daas;
 public enum CryptoResult {
     Sign_OK(1),
     Sign_Invalid(2),
-    Sign_Corrupted(3);
+    Sign_Corrupted(4);
 
     private final int value;
 
