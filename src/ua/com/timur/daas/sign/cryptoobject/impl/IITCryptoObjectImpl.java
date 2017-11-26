@@ -2,6 +2,8 @@ package ua.com.timur.daas.sign.cryptoobject.impl;
 
 import ua.com.timur.daas.CryptoResult;
 import ua.com.timur.daas.sign.cryptoobject.CryptoObject;
+import com.google.gson.Gson;
+
 
 /**
  * Created by тимур50 on 27.11.2017.
